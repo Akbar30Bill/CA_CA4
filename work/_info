@@ -8,3 +8,25 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA_pro/18.1
+vStack
+!s110 1558360352
+!i10b 1
+!s100 fIUO?5kKBeSJ2JX5a9fFg1
+I>ll<Q_71mB1D:STkVO<8V3
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/ali/Desktop/CA_CA4
+w1558360349
+8C:/Users/ali/Desktop/CA_CA4/Stack.v
+FC:/Users/ali/Desktop/CA_CA4/Stack.v
+L0 4
+OV;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1558360352.000000
+!s107 C:/Users/ali/Desktop/CA_CA4/Stack.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ali/Desktop/CA_CA4/Stack.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@stack
