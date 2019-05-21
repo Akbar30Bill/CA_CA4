@@ -1,4 +1,11 @@
-C:/Users/ali/Desktop/CA_CA4/Stack.v {1 {vlog -work work -stats=none C:/Users/ali/Desktop/CA_CA4/Stack.v
+C:/Users/ali/Desktop/CA_CA4/Stack_testbench.v {1 {vlog -work work -stats=none C:/Users/ali/Desktop/CA_CA4/Stack_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Stack_testbench
+
+Top level modules:
+	Stack_testbench
+
+} {} {}} C:/Users/ali/Desktop/CA_CA4/Stack.v {1 {vlog -work work -stats=none C:/Users/ali/Desktop/CA_CA4/Stack.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
 -- Compiling module Stack
 

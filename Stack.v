@@ -11,15 +11,15 @@ module Stack(data_in, push, pop, tos, clk, rst, data_out);
     if(rst)  begin
       ptr       <= 32'b0;
     end
-    else if(pop)  begin
-      data_out  <= data[ptr];
+    if(pop)  begin
+      // data_out  <= data[ptr];
       ptr       <= ptr - 1  ;
     end
-    else if(push) begin
+    if(push) begin
       ptr       <= ptr + 1;
       data[ptr] <= data_in;
     end
-    else if(tos)  begin
+    if(tos)  begin
       data_out  <= data[ptr];
     end
   end

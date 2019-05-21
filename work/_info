@@ -9,24 +9,46 @@ z2
 cModel Technology
 dC:/intelFPGA_pro/18.1
 vStack
-!s110 1558360352
+Z0 !s110 1558457974
 !i10b 1
-!s100 fIUO?5kKBeSJ2JX5a9fFg1
-I>ll<Q_71mB1D:STkVO<8V3
-VDg1SIo80bB@j0V0VzS_@n1
-dC:/Users/ali/Desktop/CA_CA4
-w1558360349
+!s100 :2ePl4z`29OK0W<V6QH3k2
+I[LfnI4NcA5eXIfaPT57lE3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/ali/Desktop/CA_CA4
+w1558457834
 8C:/Users/ali/Desktop/CA_CA4/Stack.v
 FC:/Users/ali/Desktop/CA_CA4/Stack.v
 L0 4
-OV;L;10.6d;65
+Z3 OV;L;10.6d;65
 r1
 !s85 0
 31
-!s108 1558360352.000000
+Z4 !s108 1558457974.000000
 !s107 C:/Users/ali/Desktop/CA_CA4/Stack.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ali/Desktop/CA_CA4/Stack.v|
 !i113 1
-o-work work
-tCvgOpt 0
+Z5 o-work work
+Z6 tCvgOpt 0
 n@stack
+vStack_testbench
+R0
+!i10b 1
+!s100 7XdgJ7_3:oDE_bRSOc6on3
+ILld0GehiJ1<;64JUN?Xk]2
+R1
+R2
+w1558457951
+8C:/Users/ali/Desktop/CA_CA4/Stack_testbench.v
+FC:/Users/ali/Desktop/CA_CA4/Stack_testbench.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ali/Desktop/CA_CA4/Stack_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ali/Desktop/CA_CA4/Stack_testbench.v|
+!i113 1
+R5
+R6
+n@stack_testbench
